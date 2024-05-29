@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<manifest identifier="SkMO0mJFpZzMzw_ajHFdzLelCiKZTVbN2mnMQOVN" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Enteral feeding tubes</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Enteral feeding tubes</title>
+        <adlcp:datafromlms>eyJjcHYiOiIybW5NUU9WTiIsInJsZCI6dHJ1ZX0=</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- FRONTEND BUNDLE ASSETS -->
+      <file href="scormcontent/lib/rise/5fb36339.js" />
+<file href="scormcontent/lib/rise/11732e6a.css" />
+<file href="scormcontent/lib/rise/3ad2f471.js" />
+<file href="scormcontent/lib/rise/448c8f51.css" />
+<file href="scormcontent/lib/rise/2f65fc43.js" />
+<file href="scormcontent/lib/rise/92e0d0dc.js" />
+<file href="scormcontent/lib/rise/bca1d3e6.js" />
+<file href="scormcontent/lib/mondrian/entry.js" />
+<file href="scormcontent/lib/mondrian/976bee94.js" />
+<file href="scormcontent/lib/mondrian/aaafbbc2.js" />
+<file href="scormcontent/lib/mondrian/b176ca34.js" />
+<file href="scormcontent/lib/mondrian/c16e7dd3.js" />
+<file href="scormcontent/lib/mondrian/d7134136.js" />
+<file href="scormcontent/lib/mondrian/c1257364.js" />
+<file href="scormcontent/lib/mondrian/eab04a62.js" />
+<file href="scormcontent/lib/mondrian/714fc133.js" />
+
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/assets/w50-DxIyQsnRjVPz/player-interface.js" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/analytics-frame.html" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/html5/data/css/output.min.css" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/html5/data/js/5q7rCk8GlvW.js" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/html5/data/js/6Iwei2ajFf4.js" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/html5/data/js/data.js" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/html5/data/js/frame.js" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/html5/data/js/paths.js" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/html5/lib/scripts/bootstrapper.min.js" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/html5/lib/scripts/frame.desktop.min.js" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/html5/lib/scripts/frame.mobile.min.js" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/html5/lib/scripts/slides.min.js" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/html5/lib/stylesheets/desktop.min.css" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/html5/lib/stylesheets/mobile.min.css" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/meta.xml" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/mobile/62PvYfrpsvz6nESK7pViKY%7BWidth%3D303%2C%20Height%3D147%7DLight.png" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/story.html" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/story_content/WebObjects/62PvYfrpsvz/Digital_Learning_Certificate_Base64.txt" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/story_content/WebObjects/62PvYfrpsvz/certificate.html" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/story_content/WebObjects/62PvYfrpsvz/certificate.html.original.txt" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/story_content/WebObjects/62PvYfrpsvz/pdfmake_01.txt" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/story_content/thumbnail.jpg" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/story_content/user.js" />
+<file href="scormcontent/assets/w50-DxIyQsnRjVPz/threeSixty.json" />
+<file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Black.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Italic.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Bold.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Regular.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Light.woff" />
+<file href="scormcontent/assets/8yWRt8A58ZogPUNz.jpg" />
+<file href="scormcontent/assets/naso_collection_01.jpg" />
+<file href="scormcontent/assets/nasogastric%208-10.png" />
+<file href="scormcontent/assets/nasojejunal%208-10.png" />
+<file href="scormcontent/assets/AMTbridle1.png" />
+<file href="scormcontent/assets/nasalBridle_insert01.jpg" />
+<file href="scormcontent/assets/nasalBridle_insert02.jpg" />
+<file href="scormcontent/assets/nasalBridle_insert03.jpg" />
+<file href="scormcontent/assets/nasalBridle_insert04.jpg" />
+<file href="scormcontent/assets/nasalBridle_remove01.jpg" />
+<file href="scormcontent/assets/medicalRecord_300.png" />
+<file href="scormcontent/assets/gTube_collection.jpg" />
+<file href="scormcontent/assets/gastrostomy%20tube%2012-16_r1.png" />
+<file href="scormcontent/assets/Replacing%20PEG%20connectors-1-480p-240114.gif" />
+<file href="scormcontent/assets/Replacing%20PEG%20connectors-2-480p-240114.gif" />
+<file href="scormcontent/assets/Replacing%20PEG%20connectors-3-480p-240114.gif" />
+<file href="scormcontent/assets/gastrstomy%20tube%209-15.png" />
+<file href="scormcontent/assets/gastrostomy_tube_12fr_ballon.png" />
+<file href="scormcontent/assets/gastrostomy%20tube%2012fr%20monarch%20capsule.png" />
+<file href="scormcontent/assets/gastrostomy%20tube%20low%20profile%20balloon.png" />
+<file href="scormcontent/assets/enplugs.png" />
+<file href="scormcontent/assets/JejunostomyTubes.jpg" />
+<file href="scormcontent/assets/gastrojejunostomy%20tube%20freka%20peg-j.png" />
+<file href="scormcontent/assets/gastrojejunostomy%20tube%2012%20balloon.png" />
+<file href="scormcontent/assets/SurgicalJejunostomy_202310.png" />
+<file href="scormcontent/assets/Freka%209fr%20Surgical%20Jejunostomy.png" />
+<file href="scormcontent/assets/12frBalloon.png" />
+<file href="scormcontent/assets/12frMonarch.png" />
+<file href="scormcontent/assets/story.html" />
+<file href="scormcontent/assets/X--FLRqvE173bqQiHE.png" />
+
+      <file href="scormcontent/locales/und.js" />
+
+    </resource>
+  </resources>
+</manifest>

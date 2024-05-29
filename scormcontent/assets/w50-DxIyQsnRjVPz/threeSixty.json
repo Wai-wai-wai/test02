@@ -1,0 +1,32 @@
+{
+  "version": "3.86.32080.0",
+  "course_id": "5hxxRHdH0S2_course_id",
+  "title": "RISE certificate",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "PDF Certificate"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6Iwei2ajFf4",
+      "title": "PrintCertificate",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5q7rCk8GlvW",
+      "title": "NameforCertificate",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 425
+  },
+  "stage": {
+    "width": 720,
+    "height": 405
+  }
+}
